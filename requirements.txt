@@ -1,0 +1,5 @@
+paho_mqtt
+grpcio
+grpcio-tools
+googleapis-common-protos
+opencv-python
